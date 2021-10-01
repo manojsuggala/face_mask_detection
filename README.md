@@ -4,4 +4,4 @@ This Project deals with detection of Face mask, i.e whether a person is wearing 
 
 # Softwares
 
-Implemented using Pythonusing opencv, Prediction using SVM
+Implemented in Python using opencv, Prediction using SVM
